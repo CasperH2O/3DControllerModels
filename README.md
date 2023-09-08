@@ -8,8 +8,13 @@ Please note that none of the models are made to be dimensionally correct.
 ## Examples
 
 ![Ayaneo Air](https://github.com/CasperH2O/3DControllerModels/assets/14330834/b7b79782-2caf-47e0-9d21-56b89d55119f)
-![Dual Shock 4](https://github.com/CasperH2O/3DControllerModels/assets/14330834/1f670915-6b66-49ec-9b5c-9dd2e37ce548)
-![Toy Controller](https://github.com/CasperH2O/3DControllerModels/assets/14330834/89fb2c97-1ac7-413c-b67a-f949640d2643)
+
+![Ayaneo 2021](https://github.com/CasperH2O/3DControllerModels/assets/14330834/7d88ee92-f8b8-4da0-928f-a6b2bd23a60b)
+![N64](https://github.com/CasperH2O/3DControllerModels/assets/14330834/60a6c646-32b3-4716-9e7a-148af100d62c)
+![SteamDeck](https://github.com/CasperH2O/3DControllerModels/assets/14330834/2a2de927-ea31-45e0-9b7a-7df4440236f7)
+![OneXplayer](https://github.com/CasperH2O/3DControllerModels/assets/14330834/d1de2426-d82f-42ad-b261-c0ced1e19e5a)
+![DS4](https://github.com/CasperH2O/3DControllerModels/assets/14330834/495d11f3-73af-4707-b5be-982c7914bd6c)
+![DualSense](https://github.com/CasperH2O/3DControllerModels/assets/14330834/1ba3066b-8b54-4ac4-8067-4ed0dc869f7f)
 
 ## Models availible
 
@@ -31,8 +36,9 @@ Please note that none of the models are made to be dimensionally correct.
 
 ## How to, contribution guidelines
 
-Z Up
-Naming convention
+Want to add a 3D model here? Great!
+Z Up, either the model is modelled with Z up or the export is done in such a way.
+Naming convention of the various parts have changed over time due to changes in Handheld Companions controller button naming schemes.
 
 ### Fusion 360
 
