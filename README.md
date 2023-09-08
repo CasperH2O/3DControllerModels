@@ -48,7 +48,12 @@ Build up of model is done in such a way that it can be exported in seperate .obj
 
 ### Blender
 
-Exported using a bulk python tool found on [Stack Exchange](https://blender.stackexchange.com/questions/5382/export-multiple-objects-to-obj).
+Exported using a Wavefront Batch (.obj) bulk python tool found on [Stack Exchange](https://blender.stackexchange.com/questions/5382/export-multiple-objects-to-obj).
+
+Z up, Y forward, scaling as needed.
+
+![image](https://github.com/CasperH2O/3DControllerModels/assets/14330834/b777bab8-2388-482c-bb42-16ad6a01b980)
+
 
 ## Credits
 
